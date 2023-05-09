@@ -18,7 +18,7 @@ person:
   age: 23
   city: Hyderabad
 ```
-
+##use a dictionary when you have key-value pairs of data and want to access them by their keys, and use an array when you have a ##collection of data that you want to access in a specific order.
 ## Step-03: Array / Lists
 - Dash indicates an element of an array
 ```yml
